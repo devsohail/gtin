@@ -1,6 +1,6 @@
 <?php
 
-use Mvdnbrk\Gtin\Validator as GtinValidator;
+use Devsohail\Gtin\Validator as GtinValidator;
 
 if (! function_exists('is_gtin')) {
     /**

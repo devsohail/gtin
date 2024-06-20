@@ -1,6 +1,6 @@
 <?php
 
-namespace Mvdnbrk\Gtin\Tests;
+namespace Devsohail\Gtin\Tests;
 
 use Illuminate\Support\Facades\Validator;
 

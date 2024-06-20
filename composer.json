@@ -35,13 +35,13 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Mvdnbrk\\Gtin\\GtinServiceProvider"
+                "Devsohail\\Gtin\\GtinServiceProvider"
             ]
         }
     },
     "autoload": {
         "psr-4": {
-            "Mvdnbrk\\Gtin\\": "src"
+            "Devsohail\\Gtin\\": "src"
         },
         "files": [
             "src/helpers.php"
@@ -49,7 +49,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Mvdnbrk\\Gtin\\Tests\\": "tests"
+            "Devsohail\\Gtin\\Tests\\": "tests"
         }
     },
     "minimum-stability": "dev",

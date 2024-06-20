@@ -1,6 +1,6 @@
 <?php
 
-namespace Mvdnbrk\Gtin;
+namespace Devsohail\Gtin;
 
 class Validator
 {

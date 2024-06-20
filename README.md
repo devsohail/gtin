@@ -14,7 +14,7 @@ Extension for the Laravel validation class.
 You can install the package via composer:
 
 ```bash
-$ composer require mvdnbrk/gtin
+$ composer require devsohail/gtin
 ```
 
 ## Usage
@@ -116,16 +116,4 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-php-version]: https://img.shields.io/packagist/php-v/mvdnbrk/gtin?style=flat-square
-[ico-version]: https://img.shields.io/packagist/v/mvdnbrk/gtin.svg?style=flat-square
-[ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-tests]: https://img.shields.io/github/workflow/status/mvdnbrk/gtin/tests/main?label=tests&style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/mvdnbrk/gtin.svg?style=flat-square
-[ico-code-style]: https://github.styleci.io/repos/91986121/shield?style=flat-square&branch=main 
 
-[link-packagist]: https://packagist.org/packages/mvdnbrk/gtin
-[link-tests]: https://github.com/mvdnbrk/gtin/actions?query=workflow%3Atests
-[link-downloads]: https://packagist.org/packages/mvdnbrk/gtin
-[link-code-style]: https://github.styleci.io/repos/91986121
-[link-author]: https://github.com/mvdnbrk
-[link-contributors]: ../../contributors

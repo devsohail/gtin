@@ -1,12 +1,12 @@
 <?php
 
-namespace Mvdnbrk\Gtin;
+namespace Devsohail\Gtin;
 
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Lang;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Support\ServiceProvider;
-use Mvdnbrk\Gtin\Validator as GtinValidator;
+use Devsohail\Gtin\Validator as GtinValidator;
 
 class GtinServiceProvider extends ServiceProvider
 {

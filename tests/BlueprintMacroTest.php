@@ -1,6 +1,6 @@
 <?php
 
-namespace Mvdnbrk\Gtin\Tests;
+namespace Devsohail\Gtin\Tests;
 
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;

@@ -1,8 +1,8 @@
 <?php
 
-namespace Mvdnbrk\Gtin\Tests;
+namespace Devsohail\Gtin\Tests;
 
-use Mvdnbrk\Gtin\GtinServiceProvider;
+use Devsohail\Gtin\GtinServiceProvider;
 use Orchestra\Testbench\TestCase as Orchestra;
 
 abstract class TestCase extends Orchestra
